@@ -1,4 +1,4 @@
-# wordle-helper
-repository for wordle helper project
+# Sudoku Solver
+repository for sudoku solver project
 
-I just edited the README.md file whattttt
+made with C++ using Qt Creator
