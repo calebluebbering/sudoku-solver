@@ -1,5 +1,6 @@
 # Sudoku Solver
-repository for sudoku solver project
+
+![SudokuSolver](./sudokusolver.png)
 
 made with C++ using Qt Creator
 
